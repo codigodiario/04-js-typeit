@@ -1,5 +1,5 @@
 # Efecto de escritura usando jQuery y la librería TypeIt
 
-[Puedes leer el artículo completo pulsando en este enlace.](https://www.google.com)
+codigoDiario - [Puedes leer el artículo completo pulsando en este enlace.](https://www.google.com)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "NOMBRE")
+![libreria typescript](http://codigodiario.me/wp-content/uploads/2016/04/Screenshot-from-2016-04-17-225420.png "Efecto de escritura usando jQuery y la librería TypeIt")

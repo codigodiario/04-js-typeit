@@ -30,7 +30,7 @@ $( document ).ready(function() {
 	});
 
 
-//Texto que se escribe y se borra para ser reemplazado por otro
+	//Texto con markups htm
 	$('#button4').click(function () {
 		$('#ejemplo4').typeIt({
 	     strings: ["Se pueden personalizar como queramos <span class='just-a-class'>, yuhuu!</span> &spades; &hearts; &clubs; &diams;"],
